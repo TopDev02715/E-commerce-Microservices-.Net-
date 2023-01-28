@@ -119,7 +119,7 @@
     <PackageVersion Include="Meziantou.Analyzer" Version="1.0.688"/>
     <PackageVersion Include="Roslynator.Analyzers" Version="3.3.0"/>
     <PackageVersion Include="Roslynator.CodeAnalysis.Analyzers" Version="3.3.0"/>
-    <PackageVersion Include="Roslynator.Formatting.Analyzers" Version="3.3.0"/>
+    <PackageVersion Include="Roslynator.Formatting.Analyzers" Version="4.2.0"/>
     <PackageVersion Include="Nito.AsyncEx" Version="5.1.2"/>
     <PackageVersion Include="Nito.AsyncEx.Context" Version="5.1.2"/>
     <PackageVersion Include="Nito.AsyncEx.Tasks" Version="5.1.2"/>
